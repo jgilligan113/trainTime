@@ -2,7 +2,7 @@
 var config = {
   apiKey: "AIzaSyAhrjQrRP6iU2uTrlyHPCSwltBSitFFFsU",
   authDomain: "gatech-trains.firebaseapp.com",
-  databaseURL: "https://gatech-trains.firebaseio.com",
+  databaseURL: "http://gatech-trains.firebaseio.com",
   storageBucket: "gatech-trains.appspot.com",
   messagingSenderId: "828019816316"
 };
